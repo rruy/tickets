@@ -9,3 +9,12 @@ Back-end (Node.js):
 - REST API for ticket handling
 - In-memory ticket storage
 - Skill-based ticket assignment
+
+
+To run app backend:
+ - cd backend
+ - node index.js
+
+TO run frontend:
+ - cd frontend
+ - npm run dev
