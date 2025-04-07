@@ -1,5 +1,9 @@
 # tickets
 
+Tech
+- Node.js backend
+- React with Vite frontend
+
 Front-end (React):
 - Client request submission form (title, description, deadline)
 - Team member dropdown (3-5 hardcoded members with skills)
